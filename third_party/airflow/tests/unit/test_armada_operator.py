@@ -1,5 +1,5 @@
 from armada.operators.armada import ArmadaOperator
-from armada.job_service import JobService
+from armada.jobservice import JobService
 
 import pytest
 import unittest
